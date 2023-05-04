@@ -4,3 +4,4 @@ The main motivation behind this work is to help eldrerly by giving them with the
 limitation: scalibility as increasing the size of slots leads to large models. 
           : Need to manually put medicines in each slot.
           
+![alt text](https://github.com/raj-akhil-1/3-axis_robotic_hand/blob/main/Results/isometric_view.png)
